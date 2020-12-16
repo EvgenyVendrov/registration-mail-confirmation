@@ -60,7 +60,7 @@ if you will try using the confirmation URL with non valid query param - you will
 - is MySQL exported table
 - import from "exportedDB" folder 
 -the SQL should have the next auth_data:
-SCHEMA_NAME = 'os_uri_routes'
+SCHEMA_NAME = 'email_url_data'
 USER_NAME = 'root'
 PASSWORD = 'Neska1994'
 - the table is exported from my own DB so it should work - if anything happens - you can change this auth_data in "\express-backend\src\services\DB.service.ts"
