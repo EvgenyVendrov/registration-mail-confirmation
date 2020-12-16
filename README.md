@@ -1,6 +1,6 @@
-This is a e2e system which enables a registration of a unique email+url, sends a confirmation mail to the mail, and enadles you to view all confirmed requests.
+This is an e2e system which enables a registration of a unique email+url, sends a confirmation mail to the mail, and enadles you to view all confirmed requests.
 
-The Frontend is built with TypeScript, React (class components, Axios) & Material UI.
+The Frontend is built as an SPA with TypeScript, React (class components, Axios) & Material UI.
 
 The Backend is built with TypeScript, NodeJS(Express), MySQL(sequelize), Body-Parser, JWT & CORS.
 
